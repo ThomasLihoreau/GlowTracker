@@ -854,3 +854,558 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.19-11.23.36:717][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
 [2020.12.19-11.23.36:761][823]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2020.12.19-11.24.02:020][754]LogSlate: Window 'Source Control Login' being destroyed
+[2020.12.19-11.25.24:263][303]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2020.12.19-11.25.24:425][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.12.19-11.25.24:425][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.19-11.25.24:425][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.19-11.25.24:426][303]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.12.19-11.25.24:453][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.12.19-11.25.24:453][303]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2020.12.19-11.25.24:490][303]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.12.19-11.25.24:513][303]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2020.12.19-11.25.24:536][303]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2020.12.19-11.25.24:599][303]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2020.12.19-11.25.24:783][303]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.12.19-11.25.24:803][303]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.12.19-11.25.24:824][303]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.12.19-11.25.24:847][303]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.12.19-11.25.24:878][303]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2020.12.19-11.25.24:940][303]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2020.12.19-11.25.24:970][303]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2020.12.19-11.25.25:031][303]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.12.19-11.25.25:280][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 242
+[2020.12.19-11.25.25:280][303]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.19-11.25.25:553][304]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 232
+[2020.12.19-11.25.26:235][322]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 222
+[2020.12.19-11.25.30:489][450]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 212
+[2020.12.19-11.25.36:280][636]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 202
+[2020.12.19-11.25.37:717][682]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 192
+[2020.12.19-11.25.40:351][766]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 182
+[2020.12.19-11.25.41:347][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 172
+[2020.12.19-11.25.48:824][ 37]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 162
+[2020.12.19-11.25.50:475][ 89]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 152
+[2020.12.19-11.25.51:759][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 142
+[2020.12.19-11.25.53:526][183]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 132
+[2020.12.19-11.25.58:916][349]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2020.12.19-11.26.01:199][420]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 112
+[2020.12.19-11.26.04:460][517]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2020.12.19-11.26.05:492][549]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2020.12.19-11.26.10:590][706]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2020.12.19-11.26.13:135][784]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2020.12.19-11.26.16:617][884]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.12.19-11.26.17:171][900]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2020.12.19-11.26.22:414][ 58]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2020.12.19-11.26.24:229][116]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.12.19-11.26.27:342][211]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.12.19-11.26.27:959][230]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.12.19-11.26.32:649][371]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.12.19-11.26.33:077][384]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.12.19-11.26.33:766][404]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.12.19-11.26.34:021][412]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.19-11.26.34:619][430]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.19-11.26.35:159][446]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.12.19-11.26.40:438][651]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.19-11.31.25:997][111]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.12.19-11.31.25:999][111]LogMaterial: Display: Missing cached shader map for material RampMaterial, compiling. 
+[2020.12.19-11.31.26:084][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.12.19-11.31.26:084][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.12.19-11.31.26:084][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.12.19-11.31.26:084][111]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.19-11.31.38:361][473]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.19-11.31.39:469][506]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.19-11.31.40:743][544]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.19-11.31.40:773][545]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.12.19-11.31.45:456][712]LogBlueprintUserMessages: [Default__Landscape_Sculpt_Mode_C] You have a Landscape
+[2020.12.19-11.34.06:868][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.12.19-11.34.07:304][179]LogSavePackage: Moving '../../../../../../-- GitWork/GlowTracker/GlowTracker/Saved/ThirdPersonExampleMap_Auto1BF13DC7544295D5B632B039FC4140570.tmp' to '../../../../../../-- GitWork/GlowTracker/GlowTracker/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.12.19-11.34.07:317][179]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.457
+[2020.12.19-11.34.07:317][179]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.457
+[2020.12.19-11.35.57:127][917]Cmd: TRANSACTION UNDO
+[2020.12.19-11.35.57:127][917]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.12.19-11.35.57:447][917]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.12.19-11.35.58:207][934]Cmd: TRANSACTION UNDO
+[2020.12.19-11.35.58:207][934]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.12.19-11.35.58:261][934]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.12.19-11.35.58:783][950]Cmd: TRANSACTION UNDO
+[2020.12.19-11.35.58:783][950]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.12.19-11.35.58:830][950]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.12.19-11.36.03:997][110]Cmd: TRANSACTION UNDO
+[2020.12.19-11.36.03:997][110]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.12.19-11.36.04:048][110]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.12.19-11.36.04:369][113]Cmd: TRANSACTION UNDO
+[2020.12.19-11.36.04:369][113]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.12.19-11.36.28:391][914]Cmd: TRANSACTION UNDO
+[2020.12.19-11.36.28:392][914]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.12.19-11.36.28:461][914]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.12.19-11.36.28:810][918]Cmd: TRANSACTION UNDO
+[2020.12.19-11.36.28:810][918]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.12.19-11.36.28:832][918]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.12.19-11.36.29:072][924]Cmd: TRANSACTION UNDO
+[2020.12.19-11.36.29:072][924]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.12.19-11.36.29:298][929]Cmd: TRANSACTION UNDO
+[2020.12.19-11.36.29:298][929]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.12.19-11.36.29:338][929]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.12.19-11.36.41:321][320]Cmd: TRANSACTION UNDO
+[2020.12.19-11.36.41:321][320]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.12.19-11.36.52:936][678]Cmd: TRANSACTION UNDO
+[2020.12.19-11.36.52:936][678]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.12.19-11.38.44:096][247]LogBlueprintUserMessages: [Default__Landscape_Painting_Mode_C] You have a Landscape
+[2020.12.19-11.39.02:722][814]LogBlueprintUserMessages: [Default__Landscape_Painting_Mode_C] You have a Landscape
+[2020.12.19-11.39.04:224][864]LogBlueprintUserMessages: [Default__Landscape_Painting_Mode_C] You have a Landscape
+[2020.12.19-11.39.04:899][884]LogBlueprintUserMessages: [Default__Landscape_Painting_Mode_C] You have a Landscape
+[2020.12.19-11.39.05:287][899]LogBlueprintUserMessages: [Default__Landscape_Painting_Mode_C] You have a Landscape
+[2020.12.19-11.39.07:272][966]LogBlueprintUserMessages: [Default__Landscape_Painting_Mode_C] You have a Landscape
+[2020.12.19-11.39.07:753][983]LogBlueprintUserMessages: [Default__Landscape_Painting_Mode_C] You have a Landscape
+[2020.12.19-11.39.07:964][990]LogBlueprintUserMessages: [Default__Landscape_Painting_Mode_C] You have a Landscape
+[2020.12.19-11.39.08:193][998]LogBlueprintUserMessages: [Default__Landscape_Painting_Mode_C] You have a Landscape
+[2020.12.19-11.39.08:372][  4]LogBlueprintUserMessages: [Default__Landscape_Painting_Mode_C] You have a Landscape
+[2020.12.19-11.42.28:501][269]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.12.19-11.42.28:584][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.12.19-11.42.28:584][270]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.12.19-11.42.28:584][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.12.19-11.42.28:585][270]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.12.19-11.42.28:704][270]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.12.19-11.42.28:828][271]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.12.19-11.42.36:102][403]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 68
+[2020.12.19-11.42.36:423][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2020.12.19-11.42.37:055][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2020.12.19-11.42.37:068][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2020.12.19-11.42.44:239][568]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.12.19-11.42.45:121][586]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.19-11.42.47:174][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.12.19-11.42.47:426][634]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.12.19-11.42.50:005][688]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.12.19-11.42.50:317][695]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.12.19-11.42.51:651][722]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.19-11.42.51:840][726]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.12.19-11.42.52:360][737]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.12.19-11.43.36:182][963]SourceControl: fatal: D:/--  Software/Epic Games/UE_4.26/Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape_Material.uasset: 'D:/--  Software/Epic Games/UE_4.26/Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape_Material.uasset' is outside repository at 'D:/-- GitWork/GlowTracker'
+[2020.12.19-11.44.09:044][921]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2020.12.19-11.44.09:074][921]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.12.19-11.44.09:074][921]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.12.19-11.44.09:074][921]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.12.19-11.44.09:074][921]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.19-11.44.09:108][921]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2020.12.19-11.44.09:115][921]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2020.12.19-11.44.09:125][921]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2020.12.19-11.44.19:032][124]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.12.19-11.44.19:625][136]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.12.19-11.44.20:386][151]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.12.19-11.44.20:437][152]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.12.19-11.44.24:269][228]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.12.19-11.44.24:626][233]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.12.19-11.44.26:746][285]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.19-11.44.26:788][286]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.12.19-11.45.15:075][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.12.19-11.45.15:087][134]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.12.19-11.45.15:176][134]LogSavePackage: Moving '../../../../../../-- GitWork/GlowTracker/GlowTracker/Saved/ThirdPersonExampleMap_Auto281D393E945FA47FA81EBE494056F3CD0.tmp' to '../../../../../../-- GitWork/GlowTracker/GlowTracker/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2020.12.19-11.45.15:179][134]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.379
+[2020.12.19-11.45.15:179][134]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.379
+[2020.12.19-12.04.05:697][171]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2020.12.19-12.05.06:770][ 64]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2020.12.19-12.05.06:803][ 64]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 32X32)
+[2020.12.19-12.05.06:821][ 64]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2020.12.19-12.05.06:868][ 64]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.12.19-12.05.06:869][ 64]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.12.19-12.05.06:869][ 64]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.12.19-12.05.06:869][ 64]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.19-12.05.06:869][ 64]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 32X32)
+[2020.12.19-12.05.06:894][ 64]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 32X32)
+[2020.12.19-12.05.06:919][ 64]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 32X32)
+[2020.12.19-12.05.06:947][ 64]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 32X32)
+[2020.12.19-12.05.06:979][ 64]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 32X32)
+[2020.12.19-12.05.07:003][ 64]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 32X32)
+[2020.12.19-12.05.07:026][ 64]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 32X32)
+[2020.12.19-12.05.07:049][ 64]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 32X32)
+[2020.12.19-12.05.07:070][ 64]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 32X32)
+[2020.12.19-12.05.07:093][ 64]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 32X32)
+[2020.12.19-12.05.07:116][ 64]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 32X32)
+[2020.12.19-12.05.07:140][ 64]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 32X32)
+[2020.12.19-12.05.07:154][ 64]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 32X32)
+[2020.12.19-12.05.07:166][ 64]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 32X32)
+[2020.12.19-12.05.07:186][ 64]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 32X32)
+[2020.12.19-12.05.16:739][253]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.12.19-12.05.17:296][261]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.12.19-12.05.17:851][269]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.19-12.05.17:977][271]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.12.19-12.05.55:466][798]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2020.12.19-12.06.13:865][172]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2020.12.19-12.06.22:745][398]LogAssetEditorSubsystem: Opening Asset editor for LandscapeLayerInfoObject /Game/ThirdPersonBP/Maps/Dirt_LayerInfo.Dirt_LayerInfo
+[2020.12.19-12.06.31:372][617]LogSlate: Window 'Dirt_LayerInfo' being destroyed
+[2020.12.19-12.06.31:408][617]LogSlate: Window 'Dirt_LayerInfo' being destroyed
+[2020.12.19-12.06.47:139][ 93]LogSavePackage: Moving '../../../../../../-- GitWork/GlowTracker/GlowTracker/Saved/Dirt_LayerInfo0A433F1D4D930F6C9BCAC493685C6A49.tmp' to '../../../../../../-- GitWork/GlowTracker/GlowTracker/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Dirt_LayerInfo.uasset'
+[2020.12.19-12.06.47:756][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.12.19-12.06.47:771][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.19-12.06.47:777][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.19-12.06.47:881][ 93]AssetCheck: New page: Asset Save: Dirt_LayerInfo
+[2020.12.19-12.06.47:881][ 93]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Dirt_LayerInfo.Dirt_LayerInfo
+[2020.12.19-12.06.54:551][277]LogSavePackage: Moving '../../../../../../-- GitWork/GlowTracker/GlowTracker/Saved/Grass_LayerInfoC66CED4945FE7B0AD13EADA1CAED3CFB.tmp' to '../../../../../../-- GitWork/GlowTracker/GlowTracker/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Grass_LayerInfo.uasset'
+[2020.12.19-12.06.54:985][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.12.19-12.06.54:998][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.12.19-12.06.55:004][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.19-12.06.55:042][277]AssetCheck: New page: Asset Save: Grass_LayerInfo
+[2020.12.19-12.06.55:042][277]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Grass_LayerInfo.Grass_LayerInfo
+[2020.12.19-12.07.48:219][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.12.19-12.07.50:206][648]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.19-12.07.50:251][648]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Grass_LayerInfo.Grass_LayerInfo
+[2020.12.19-12.07.52:298][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.12.19-12.07.52:307][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.12.19-12.07.52:314][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.19-12.07.52:500][648]SourceControl: rm 'GlowTracker/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Grass_LayerInfo.uasset'
+[2020.12.19-12.07.54:513][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.12.19-12.07.55:978][715]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.19-12.07.56:019][715]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Dirt_LayerInfo.Dirt_LayerInfo
+[2020.12.19-12.07.56:402][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.12.19-12.07.56:409][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.12.19-12.07.56:416][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.12.19-12.07.56:592][715]SourceControl: rm 'GlowTracker/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_sharedassets/Dirt_LayerInfo.uasset'
+[2020.12.19-12.08.04:511][876]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2020.12.19-12.08.04:539][876]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2020.12.19-12.08.04:551][876]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 32X32)
+[2020.12.19-12.08.04:571][876]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 32X32)
+[2020.12.19-12.08.04:591][876]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 32X32)
+[2020.12.19-12.08.04:605][876]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 32X32)
+[2020.12.19-12.08.04:628][876]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 32X32)
+[2020.12.19-12.08.04:651][876]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 32X32)
+[2020.12.19-12.08.04:671][876]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 32X32)
+[2020.12.19-12.08.04:692][876]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 32X32)
+[2020.12.19-12.08.04:718][876]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 32X32)
+[2020.12.19-12.08.04:736][876]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 32X32)
+[2020.12.19-12.08.04:754][876]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 32X32)
+[2020.12.19-12.08.04:771][876]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 32X32)
+[2020.12.19-12.08.04:790][876]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 32X32)
+[2020.12.19-12.08.04:808][876]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 32X32)
+[2020.12.19-12.08.04:825][876]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 32X32)
+[2020.12.19-12.08.18:647][243]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2020.12.19-12.15.37:689][ 78]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 32X32)
+[2020.12.19-12.15.37:703][ 78]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2020.12.19-12.15.37:739][ 78]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.12.19-12.15.37:739][ 78]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.12.19-12.15.37:739][ 78]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.12.19-12.15.37:739][ 78]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.19-12.15.37:743][ 78]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2020.12.19-12.15.37:760][ 78]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 32X32)
+[2020.12.19-12.15.37:778][ 78]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 32X32)
+[2020.12.19-12.15.37:798][ 78]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 32X32)
+[2020.12.19-12.15.37:938][ 82]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 32X32)
+[2020.12.19-12.15.38:038][ 84]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2020.12.19-12.15.38:255][ 88]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 32X32)
+[2020.12.19-12.15.47:652][277]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2020.12.19-12.15.48:322][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2020.12.19-12.15.49:105][307]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.12.19-12.15.49:139][308]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.12.19-12.15.56:329][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.12.19-12.15.56:413][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.12.19-12.15.58:577][500]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.12.19-12.15.59:684][523]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.19-12.15.59:732][524]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.19-12.16.00:271][536]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.19-12.16.00:650][544]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.19-12.16.05:951][689]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 32X32)
+[2020.12.19-12.16.05:965][689]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2020.12.19-12.16.06:000][689]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.12.19-12.16.06:000][689]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.12.19-12.16.06:000][689]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.12.19-12.16.06:000][689]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.12.19-12.16.06:000][689]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 32X32)
+[2020.12.19-12.16.06:013][689]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2020.12.19-12.16.06:049][689]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 32X32)
+[2020.12.19-12.16.06:063][689]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 32X32)
+[2020.12.19-12.16.06:081][689]LogMaterial: Display: Missing cached shader map for material Landscape_Material, compiling. 
+[2020.12.19-12.16.06:119][689]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 32X32)
+[2020.12.19-12.16.06:133][689]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 32X32)
+[2020.12.19-12.16.06:152][689]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 32X32)
+[2020.12.19-12.16.06:168][689]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 32X32)
+[2020.12.19-12.16.06:172][689]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 32X32)
+[2020.12.19-12.16.15:801][880]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 98
+[2020.12.19-12.16.16:467][893]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 88
+[2020.12.19-12.16.17:284][909]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 78
+[2020.12.19-12.16.17:440][912]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2020.12.19-12.16.23:934][ 41]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2020.12.19-12.16.26:808][ 98]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2020.12.19-12.16.26:867][ 99]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2020.12.19-12.16.27:518][112]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2020.12.19-12.16.31:589][193]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.12.19-12.16.36:333][306]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.12.19-12.16.37:969][338]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.12.19-12.16.38:012][339]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.12.19-12.16.39:585][369]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.12.19-12.16.40:006][378]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.12.19-12.16.40:428][386]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.19-12.16.40:447][386]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.19-12.16.50:911][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.12.19-12.16.50:924][525]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 32X32)
+[2020.12.19-12.16.50:925][525]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2020.12.19-12.16.50:926][525]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 32X32)
+[2020.12.19-12.16.50:927][525]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 32X32)
+[2020.12.19-12.16.50:928][525]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 32X32)
+[2020.12.19-12.16.50:929][525]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 32X32)
+[2020.12.19-12.16.50:930][525]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 32X32)
+[2020.12.19-12.16.50:931][525]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2020.12.19-12.16.50:932][525]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 32X32)
+[2020.12.19-12.16.50:933][525]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 32X32)
+[2020.12.19-12.16.50:934][525]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 32X32)
+[2020.12.19-12.16.50:935][525]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 32X32)
+[2020.12.19-12.16.50:936][525]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 32X32)
+[2020.12.19-12.16.50:938][525]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 32X32)
+[2020.12.19-12.16.50:939][525]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 32X32)
+[2020.12.19-12.16.50:940][525]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 32X32)
+[2020.12.19-12.16.50:941][525]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 32X32)
+[2020.12.19-12.16.50:942][525]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 32X32)
+[2020.12.19-12.16.50:943][525]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 32X32)
+[2020.12.19-12.16.50:943][525]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 32X32)
+[2020.12.19-12.16.50:944][525]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 32X32)
+[2020.12.19-12.16.50:945][525]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 32X32)
+[2020.12.19-12.16.50:946][525]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 32X32)
+[2020.12.19-12.16.50:947][525]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 32X32)
+[2020.12.19-12.16.50:948][525]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 32X32)
+[2020.12.19-12.16.50:949][525]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 32X32)
+[2020.12.19-12.16.50:949][525]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 32X32)
+[2020.12.19-12.16.50:950][525]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 32X32)
+[2020.12.19-12.16.50:951][525]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 32X32)
+[2020.12.19-12.16.50:952][525]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 32X32)
+[2020.12.19-12.16.50:953][525]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 32X32)
+[2020.12.19-12.16.50:954][525]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 32X32)
+[2020.12.19-12.16.51:083][525]LogSavePackage: Moving '../../../../../../-- GitWork/GlowTracker/GlowTracker/Saved/ThirdPersonExampleMap_Auto34DE6620D47BEB6882A36648A1FAC6B04.tmp' to '../../../../../../-- GitWork/GlowTracker/GlowTracker/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2020.12.19-12.16.51:086][525]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.189
+[2020.12.19-12.16.51:086][525]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.189
+[2020.12.19-12.18.44:662][167]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.12.19-12.18.46:033][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2020.12.19-12.18.48:156][280]Cmd: DELETE
+[2020.12.19-12.18.48:156][280]Cmd: ACTOR DELETE
+[2020.12.19-12.18.48:163][280]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.12.19-12.18.48:214][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.12.19-12.18.48:222][280]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2020.12.19-12.18.49:058][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.12.19-12.18.49:509][323]Cmd: DELETE
+[2020.12.19-12.18.49:509][323]Cmd: ACTOR DELETE
+[2020.12.19-12.18.49:514][323]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.12.19-12.18.49:525][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.12.19-12.18.49:526][323]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.12.19-12.18.50:372][351]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.12.19-12.18.51:556][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.12.19-12.18.52:112][406]Cmd: DELETE
+[2020.12.19-12.18.52:112][406]Cmd: ACTOR DELETE
+[2020.12.19-12.18.52:116][406]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.12.19-12.18.52:128][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.12.19-12.18.52:130][406]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.12.19-12.18.53:071][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2020.12.19-12.18.53:763][457]Cmd: DELETE
+[2020.12.19-12.18.53:763][457]Cmd: ACTOR DELETE
+[2020.12.19-12.18.53:768][457]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.12.19-12.18.53:779][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.12.19-12.18.53:780][457]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.12.19-12.19.06:965][897]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.19-12.19.12:369][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2020.12.19-12.19.14:196][128]Cmd: EDIT COPY
+[2020.12.19-12.19.14:873][148]Cmd: EDIT PASTE
+[2020.12.19-12.20.43:322][821]Cmd: EDIT COPY
+[2020.12.19-12.20.43:781][837]Cmd: EDIT PASTE
+[2020.12.19-12.20.49:950][ 46]Cmd: EDIT PASTE
+[2020.12.19-12.20.55:035][217]Cmd: EDIT PASTE
+[2020.12.19-12.21.00:581][404]Cmd: EDIT PASTE
+[2020.12.19-12.21.05:685][573]Cmd: EDIT PASTE
+[2020.12.19-12.21.09:130][703]Cmd: EDIT PASTE
+[2020.12.19-12.21.16:931][966]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.19-12.21.29:530][361]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-12.21.29:550][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-12.21.29:550][361]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 19, 2020, 2:21:29 PM)
+[2020.12.19-12.21.29:550][361]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.12.19-12.21.29:589][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039638s)
+[2020.12.19-12.21.29:592][361]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.12.19-12.21.29:596][361]LogPlayLevel: PIE: World Init took: (0.006602s)
+[2020.12.19-12.21.29:596][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.046902s)
+[2020.12.19-12.21.29:612][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.12.19-12.21.29:618][361]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2020.12.19-12.21.29:618][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-12.21.29:618][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-12.21.29:618][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-12.21.29:618][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-12.21.29:618][361]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-12.21.29:618][361]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-12.21.29:619][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-12.21.29:619][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-12.21.29:620][361]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-12.21.29:620][361]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-12.21.29:625][361]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-12.21.29:625][361]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-12.21.29:699][361]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.12.19-12.21.29:699][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-12.21.29:699][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-12.21.29:699][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-12.21.29:700][361]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-12.21.29:700][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.19-12.21.29:700][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.19-12.21.29:726][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.19-12.21.29:726][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.19-12.21.29:726][361]LogInit: FAudioDevice initialized.
+[2020.12.19-12.21.29:726][361]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2020.12.19-12.21.29:745][361]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.19-12.21.29:750][361]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.12.19-13.21.29
+[2020.12.19-12.21.29:750][361]LogWorld: Bringing up level for play took: 0.003885
+[2020.12.19-12.21.29:751][361]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.12.19-12.21.29:754][361]PIE: Server logged in
+[2020.12.19-12.21.29:755][361]PIE: Play in editor total start time 0.207 seconds.
+[2020.12.19-12.22.16:856][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.22.16:856][161]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.12.19-12.22.16:856][161]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-12.22.16:858][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.22.16:910][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-12.22.16:922][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.22.16:928][161]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.19-12.22.16:929][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.19-12.22.16:930][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.19-12.22.16:952][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.22.16:955][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.12.19-12.22.16:997][162]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.12.19-12.22.47:082][680]MapCheck: New page: Map Check
+[2020.12.19-12.22.47:104][680]LightingResults: New page: Lighting Build - Dec 19, 2020, 2:22:47 PM
+[2020.12.19-12.22.47:457][680]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.19-12.22.47:601][680]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.19-12.22.47:620][680]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.19-12.22.48:648][680]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.19-12.22.48:648][680]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18064
+[2020.12.19-12.22.51:009][680]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.19-12.22.51:009][680]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.19-12.22.51:009][680]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.19-12.22.51:009][680]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.19-12.22.51:009][680]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.19-12.22.51:345][680]LogEditorBuildUtils: Build time 0:04
+[2020.12.19-12.22.51:414][681]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.12.19-12.22.51:421][681]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.12.19-12.22.51:463][682]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.19-12.22.51:463][682]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.12.19-12.22.51:470][682]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_428, compiling. 
+[2020.12.19-12.22.51:479][682]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.12.19-12.22.51:479][682]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.19-12.22.51:480][682]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_428, compiling. 
+[2020.12.19-12.22.51:566][683]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_433, compiling. 
+[2020.12.19-12.22.51:572][683]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_433, compiling. 
+[2020.12.19-12.22.51:689][684]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_333, compiling. 
+[2020.12.19-12.22.51:697][684]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_333, compiling. 
+[2020.12.19-12.22.51:796][685]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_440, compiling. 
+[2020.12.19-12.22.51:802][685]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_440, compiling. 
+[2020.12.19-12.22.51:874][686]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_409, compiling. 
+[2020.12.19-12.22.51:882][686]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_409, compiling. 
+[2020.12.19-12.22.55:806][689]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.12.19-12.22.55:806][689]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.12.19-12.22.55:806][689]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.12.19-12.22.55:806][689]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.19-12.22.55:806][689]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.19-12.22.55:806][689]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.12.19-12.22.55:806][689]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.19-12.22.55:806][689]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.12.19-12.23.00:707][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.12.19-12.23.08:022][  2]Job is a success!
+[2020.12.19-12.23.08:419][  3]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.039s
+[2020.12.19-12.23.08:419][  3]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.19-12.23.08:419][  3]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2020.12.19-12.23.08:419][  3]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.19-12.23.08:419][  3]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2020.12.19-12.23.08:419][  3]LogVolumetricLightmapImport:          1: 13.3% covering 6.2% of volume
+[2020.12.19-12.23.08:419][  3]LogVolumetricLightmapImport:          2: 83.3% covering 0.6% of volume
+[2020.12.19-12.23.08:419][  3]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.19-12.23.08:419][  3]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 30 bricks 	 100.0% (Persistent Level)
+[2020.12.19-12.23.09:369][  3]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.12.19-12.23.09:369][  3]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.12.19-12.23.09:369][  3]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.12.19-12.23.09:369][  3]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 128X64)
+[2020.12.19-12.23.09:369][  3]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2020.12.19-12.23.09:369][  3]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2020.12.19-12.23.09:369][  3]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 256X128)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 256X128)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 128X64)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 128X64)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 128X128)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 128X128)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 64X32)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 64X64)
+[2020.12.19-12.23.09:370][  3]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 64X64)
+[2020.12.19-12.23.09:561][  3]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 128X32)
+[2020.12.19-12.23.09:561][  3]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 128X32)
+[2020.12.19-12.23.09:561][  3]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 128X32)
+[2020.12.19-12.23.09:561][  3]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 32X32)
+[2020.12.19-12.23.09:561][  3]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 512X32)
+[2020.12.19-12.23.09:561][  3]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 512X32)
+[2020.12.19-12.23.09:561][  3]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 512X32)
+[2020.12.19-12.23.09:561][  3]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 512X32)
+[2020.12.19-12.23.09:561][  3]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2020.12.19-12.23.09:561][  3]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 79 meshes in 9 LightmapResourceClusters (8.8 Meshes per cluster).
+[2020.12.19-12.23.09:582][  3]Lightmass on DESKTOP-1VJQTGP: 7.59 sec total, 496 ms importing, 176 ms setup, 1.41 sec photons, 5.20 sec processing, 0 ms extra exporting [79/79 mappings]. Threads: 36.4 sec total, 14.9 sec processing.
+[2020.12.19-12.23.09:596][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.12.19-12.23.09:619][  3]LogStaticLightingSystem: Illumination: 22.4 sec (760 ms encoding lightmaps, 137 ms encoding shadowmaps)
+[2020.12.19-12.23.09:619][  3]LogStaticLightingSystem: Lightmap texture memory:  3.5 MB (3.5 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.12.19-12.23.09:620][  3]LogStaticLightingSystem: Shadowmap texture memory: 0.8 MB (0.8 MB streaming, 0.0 MB non-streaming), 9 textures
+[2020.12.19-12.23.10:028][  3]DumpUnbuiltLightIteractions
+[2020.12.19-12.23.10:028][  3]Lights with unbuilt interactions: 0
+[2020.12.19-12.23.10:028][  3]
+[2020.12.19-12.23.10:028][  3]Primitives with unbuilt interactions: 0
+[2020.12.19-12.23.10:194][  3]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2020.12.19-12.23.10:243][  4]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.19-12.23.10:243][  4]MapCheck: New page: ThirdPersonExampleMap - Dec 19, 2020, 2:23:10 PM
+[2020.12.19-12.23.10:268][  4]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 25.016ms to complete.
+[2020.12.19-12.23.14:325][156]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-12.23.14:346][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-12.23.14:346][156]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 19, 2020, 2:23:14 PM)
+[2020.12.19-12.23.14:346][156]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.12.19-12.23.14:383][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036647s)
+[2020.12.19-12.23.14:384][156]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.12.19-12.23.14:385][156]LogPlayLevel: PIE: World Init took: (0.002239s)
+[2020.12.19-12.23.14:385][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.039153s)
+[2020.12.19-12.23.14:421][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.12.19-12.23.14:424][156]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2020.12.19-12.23.14:424][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-12.23.14:424][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-12.23.14:424][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-12.23.14:424][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-12.23.14:424][156]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-12.23.14:424][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-12.23.14:424][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-12.23.14:424][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-12.23.14:425][156]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-12.23.14:425][156]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-12.23.14:428][156]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-12.23.14:428][156]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-12.23.14:502][156]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.12.19-12.23.14:502][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-12.23.14:502][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-12.23.14:502][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-12.23.14:503][156]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-12.23.14:503][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.19-12.23.14:503][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.19-12.23.14:531][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.19-12.23.14:531][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.19-12.23.14:531][156]LogInit: FAudioDevice initialized.
+[2020.12.19-12.23.14:531][156]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2020.12.19-12.23.14:546][156]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.19-12.23.14:550][156]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.12.19-13.23.14
+[2020.12.19-12.23.14:551][156]LogWorld: Bringing up level for play took: 0.003147
+[2020.12.19-12.23.14:551][156]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.12.19-12.23.14:555][156]PIE: Server logged in
+[2020.12.19-12.23.14:556][156]PIE: Play in editor total start time 0.211 seconds.
+[2020.12.19-12.24.46:306][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.24.46:306][151]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.12.19-12.24.46:306][151]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-12.24.46:307][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.24.46:322][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-12.24.46:334][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.24.46:341][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.19-12.24.46:341][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.19-12.24.46:342][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.19-12.24.46:368][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.24.46:372][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.12.19-12.24.46:409][152]LogPlayLevel: Display: Destroying online subsystem :Context_11
