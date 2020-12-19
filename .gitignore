@@ -81,3 +81,11 @@ DerivedDataCache/*
 *.ini
 *.json
 *.log
+GlowTracker/Intermediate/CachedAssetRegistry.bin
+GlowTracker/Saved/Autosaves/PackageRestoreData.json
+GlowTracker/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+GlowTracker/Saved/Logs/GlowTracker.log
+GlowTracker/Intermediate/CachedAssetRegistry.bin
+GlowTracker/Saved/Autosaves/PackageRestoreData.json
+GlowTracker/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+GlowTracker/Saved/Logs/GlowTracker.log
