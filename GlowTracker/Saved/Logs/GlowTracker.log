@@ -3339,3 +3339,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.20-18.34.18:407][140]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
 [2020.12.20-18.34.18:751][163]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
 [2020.12.20-18.34.19:202][194]Cmd: SELECT NONE
+[2020.12.20-18.34.41:436][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.20-18.34.41:734][696]LogSavePackage: Moving 'C:/Users/gaill/Documents/EPITECH/GlowTracker/GlowTracker/Saved/mainMap5653BF694F3BB1182BECC09C0BA97C27.tmp' to 'C:/Users/gaill/Documents/EPITECH/GlowTracker/GlowTracker/Content/ThirdPersonBP/Maps/mainMap.umap'
+[2020.12.20-18.34.41:811][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/mainMap_BuiltData" FILE="C:/Users/gaill/Documents/EPITECH/GlowTracker/GlowTracker/Content/ThirdPersonBP/Maps/mainMap_BuiltData.uasset" SILENT=true
+[2020.12.20-18.34.43:427][696]LogSavePackage: Moving 'C:/Users/gaill/Documents/EPITECH/GlowTracker/GlowTracker/Saved/mainMap_BuiltDataCFD0602C4CEE6D19A422BDA5CA55F0F9.tmp' to 'C:/Users/gaill/Documents/EPITECH/GlowTracker/GlowTracker/Content/ThirdPersonBP/Maps/mainMap_BuiltData.uasset'
+[2020.12.20-18.34.43:451][696]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.20-18.34.43:451][696]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/mainMap_BuiltData.mainMap_BuiltData
+[2020.12.20-18.34.43:451][696]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/mainMap.mainMap
