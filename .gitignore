@@ -90,3 +90,10 @@ GlowTracker/Saved/Autosaves/PackageRestoreData.json
 GlowTracker/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 GlowTracker/Saved/Logs/GlowTracker.log
 *.log
+
+GlowTracker/Content/FoliagePackV1/*
+GlowTracker/Content/MS_ForestTut/*
+GlowTracker/Content/MS_SnowEss/*
+GlowTracker/Content/Particles_Wind_Control_System/*
+GlowTracker/Content/PN_FoliageCollection/*
+GlowTracker/Content/PN_interactiveSpruceForest/*
